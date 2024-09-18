@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <bukkit.version>1.12-R0.1-SNAPSHOT</bukkit.version>
+        <bukkit.version>1.21-R0.1-SNAPSHOT</bukkit.version>
         <sponge.version>6.1.0</sponge.version>
         <maven.build.timestamp.format>yyyyMMdd-HHmm</maven.build.timestamp.format>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -54,8 +54,8 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>net.glowstone</groupId>
-            <artifactId>glowkit</artifactId>
+            <groupId>io.papermc</groupId>
+            <artifactId>paper</artifactId>
             <version>${bukkit.version}</version>
             <type>jar</type>
             <scope>provided</scope>
