@@ -8,7 +8,8 @@ Bukkit2Sponge allows loading SpongeAPI plugins on Bukkit servers.
 * [Bukkit2Sponge thread on Sponge Forums](https://forums.spongepowered.org/t/bukkit2sponge-an-implementation-of-spongeapi-for-bukkit-servers/6747)
 * [Bukkit2Sponge resource on SpigotMC](http://www.spigotmc.org/resources/bukkit2sponge.6368/)
 
-Warning: very incomplete (bug reports and pull requests appreciated, see [issues](https://github.com/GlowstonePlusPlus/Bukkit2Sponge/issues))
+Warning: will be updated to library of Sangsang.
+by Glowstone and ported to Sangsang by 2024
 
 Usage
 -----
